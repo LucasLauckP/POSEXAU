@@ -81,7 +81,7 @@ The first function of posexau is to inspection of biceps exercise Barbell Curl, 
 
 
 ```
-posexau.inspec_barbell_curl(confs,prob_min_barbell_curl,frame, points, angle_accepted_arms, False)
+posexau.inspec_barbell_curl(confs,prob_min_barbell_curl,frame, points, angle_accepted_body, angle_accepted_arms, False)
 ```
 
 That recive with parameters:
@@ -91,6 +91,7 @@ That recive with parameters:
 "prob_min_barbell_curl" = minimal confiability choose for the user.
 "frame" = frame for the video.
 "points" = points of body positions in the frame.
+"angle_accepted_body" = angle maximum for the body inclinattion.
 "angle_accepted_arms" = ponderation margin to accept in angle of hiperextension.
 Flag to choose if the Tool draw the angles about the arms and chest in the frame.
 ```
