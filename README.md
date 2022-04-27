@@ -4,7 +4,7 @@
   <a href="#handshake-platform">Plataform</a> •  
   <a href="#desktop_computer-hardware">Hardware</a> •
   <a href="#weight_lifting-caffe-model">Caffe Model</a> •
-  <a href="#art-about-me">About Me</a>
+  <a href="#art-contact-me">Contact Me</a>
 </p>
 
 <h1 align="center">POSEXAU</h1>
@@ -105,3 +105,8 @@ Since it's only inference and not training, a computer with a processing power o
 ## :weight_lifting: **Caffe Model**
 The Caffe Model weights used can be dowloaded at
 http://posefs1.perception.cs.cmu.edu/Users/tsimon/Projects/coco/data/models/mpi/pose_iter_160000.caffemodel
+
+## :art: **Contact Me**
+🔗 https://www.linkedin.com/in/lucas-lauck-dos-passos-80753a19b/
+
+📧 llpassos@inf.ufrgs.br
