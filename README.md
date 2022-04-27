@@ -10,16 +10,17 @@
 	🚧  Python Select 🚀 Building...  🚧
 </h4>
 <p align="center">
+ <a href="#blush-why">Why</a> •
  <a href="#Description">Description</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
- <a href="#Plataform">Licença</a> • 
+ <a href="#Plataform">Plataform</a> • 
  <a href="#autor">Autor</a>
 </p>
 
 #Description
-
+## :blush: **Why?**
 
 The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
 
