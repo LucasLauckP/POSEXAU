@@ -12,10 +12,11 @@
 
 <p align="center">
   <a href="#blush-description">Description</a> •
-  <a href="#dizzy-tutorial">Tutorial</a> •
+  <a href="#book-tutorial">Tutorial</a> •
   <a href="#zap-tech-stack">Tech Stack</a> •
-  <a href="#handshake-plataform">Plataform</a> •  
-  <a href="#tophat-license">License</a> •
+  <a href="#handshake-platform">Plataform</a> •  
+  <a href="#desktop_computer-hardware">Hardware</a> •
+  <a href="#weight_lifting-caffe-model">Caffe Model</a> •
   <a href="#art-about-me">About Me</a>
 </p>
 
@@ -23,7 +24,7 @@
 
 Put your personal vídeos practicing exercises and verify if you are doing correct.
 
-## :dizzy: **Tutorial**
+## :book: **Tutorial**
 
 1.
 Tutorial to create the enviroment necessary to use that Tool.
@@ -73,8 +74,11 @@ Flag to choose if the Tool draw the angles about the arms and chest in the frame
 
 ## :handshake: **Platform**
 
-The system is designed to work on both platforms, Windows and Linux. Since it's only inference and not training, a computer with a processing power of a fourth generation i5 processor and a camera of at least 7 Megapixels to record the videos.
+The system is designed to work on both platforms, Windows and Linux. 
 
-Obs:
+## :desktop_computer: **Hardware**
+Since it's only inference and not training, a computer with a processing power of a fourth generation i5 processor and a camera of at least 7 Megapixels to record the videos.
+
+## :weight_lifting: **Caffe Model**
 The Caffe Model weights used can be dowloaded at
 http://posefs1.perception.cs.cmu.edu/Users/tsimon/Projects/coco/data/models/mpi/pose_iter_160000.caffemodel
