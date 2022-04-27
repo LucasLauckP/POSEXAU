@@ -9,6 +9,17 @@
 <h4 align="center"> 
 	🚧  Python Select 🚀 Building...  🚧
 </h4>
+<p align="center">
+ <a href="#Description">Description</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#Plataform">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
+
+#Description
+
 
 The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
 
@@ -53,6 +64,9 @@ conda install -c jmcmurray os=0.1.4
 
 pip install import-ipynb=0.1.3
 
+#Plataform
+
+The system is designed to work on both platforms, Windows and Linux. Since it's only inference and not training, a computer with a processing power of a fourth generation i5 processor and a camera of at least 7 Megapixels to record the videos.
 
 Obs:
 The Caffe Model weights used can be dowloaded at
