@@ -18,12 +18,12 @@
 </h1>
 <p align="center">🚀 That was done in an Anaconda enviroment with python 3.7.11 using Jupyter Notebook IDE.</p>
 
-<h4 align="center"> 
-	🚧  Python Select 🚀 Building...  🚧
-</h4>
 <p align="center">
 <img src="./images/keypoints.jpg" width="300" height="350" align="center" alt="exemplo imagem">
 </p>
+<h4 align="center"> 
+	🚧  Python Select 🚀 Building...  🚧
+</h4>
 
 ## :blush: **Description**
 
