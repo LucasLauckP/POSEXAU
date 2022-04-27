@@ -1,7 +1,14 @@
-# POSEXAU
+<h1 align="center">POSEXAU</h1>
 
-POSEXAU is a Tool to Auxiliate Exercises Execution Pose did to my Final Paper.
-That was done in an Anaconda enviroment with python 3.7.11 using Jupyter Notebook IDE.
+<p align="center">Tool to Auxiliate Exercises Execution Pose did to my Final Paper.</p>
+<h1 align="center">
+    <a href="https://www.anaconda.com/">🐍 Anaconda</a>
+</h1>
+<p align="center">🚀 That was done in an Anaconda enviroment with python 3.7.11 using Jupyter Notebook IDE.</p>
+
+<h4 align="center"> 
+	🚧  Python Select 🚀 Building...  🚧
+</h4>
 
 The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
 
