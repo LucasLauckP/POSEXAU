@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="#blush-description">Description</a> •
+  <a href="#book-tutorial">Tutorial</a> •
+  <a href="#handshake-platform">Plataform</a> •  
+  <a href="#desktop_computer-hardware">Hardware</a> •
+  <a href="#weight_lifting-caffe-model">Caffe Model</a> •
+  <a href="#art-about-me">About Me</a>
+</p>
+
 <h1 align="center">POSEXAU</h1>
 
 <p align="center">Tool to Auxiliate Exercises Execution Pose did to my Final Paper in Computer Engineering.</p>
@@ -14,14 +23,6 @@
 </h4>
 <p align="center">
 <img src="./images/keypoints.jpg" width="300" height="350" align="center" alt="exemplo imagem">
-</p>
-<p align="center">
-  <a href="#blush-description">Description</a> •
-  <a href="#book-tutorial">Tutorial</a> •
-  <a href="#handshake-platform">Plataform</a> •  
-  <a href="#desktop_computer-hardware">Hardware</a> •
-  <a href="#weight_lifting-caffe-model">Caffe Model</a> •
-  <a href="#art-about-me">About Me</a>
 </p>
 
 ## :blush: **Description**
