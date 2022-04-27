@@ -9,8 +9,9 @@
 <h4 align="center"> 
 	🚧  Python Select 🚀 Building...  🚧
 </h4>
-<img src="./images/keypoints.jpg" width="200" height="400" align="center" alt="exemplo imagem">
-
+<p align="center">
+<img src="./images/keypoints.jpg" width="300" height="350" align="center" alt="exemplo imagem">
+</p>
 <p align="center">
   <a href="#blush-description">Description</a> •
   <a href="#book-tutorial">Tutorial</a> •
