@@ -2,6 +2,9 @@
 
 <p align="center">Tool to Auxiliate Exercises Execution Pose did to my Final Paper in Computer Engineering.</p>
 <h1 align="center">
+    <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose">OpenPose</a>
+</h1>
+<h1 align="center">
     <a href="https://www.anaconda.com/">🐍 Anaconda</a>
 </h1>
 <p align="center">🚀 That was done in an Anaconda enviroment with python 3.7.11 using Jupyter Notebook IDE.</p>
@@ -51,28 +54,45 @@ pip install import-ipynb=0.1.3
 ```
 
 
-## :descrip: **Lateral Raise Exercise**
+## **Lateral Raise Exercise**
 
 The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
 
-The principal function is:
 
+```
 posexau.inspec_lateral_raise(confs,prob_min_lateral_raise,frame, points, angle_max_arms, True)
+```
 
 That recive with parameters:
 
+```
 "confs" =  vetor with confiabilities.
-
 "prob_min_lateral_raise" = minimal confiability choose for the user.
-
 "frame" = frame for the video.
-
-"poitns" = points of body positions in the frame.
-
+"points" = points of body positions in the frame.
 "angle_max_arms" = minimal angle accept for the tool choose for the user to the arms in the exercise.
-
 Flag to choose if the Tool draw the angles about the arms and chest in the frame.
+```
 
+## **Barbell Curl Exercise**
+
+The first function of posexau is to inspection of biceps exercise Barbell Curl, you can put a video in de input and verify if you are doing correct. 
+
+
+```
+posexau.inspec_barbell_curl(confs,prob_min_barbell_curl,frame, points, angle_accepted_arms, False)
+```
+
+That recive with parameters:
+
+```
+"confs" =  vetor with confiabilities.
+"prob_min_barbell_curl" = minimal confiability choose for the user.
+"frame" = frame for the video.
+"points" = points of body positions in the frame.
+"angle_accepted_arms" = ponderation margin to accept in angle of hiperextension.
+Flag to choose if the Tool draw the angles about the arms and chest in the frame.
+```
 
 ## :handshake: **Platform**
 
