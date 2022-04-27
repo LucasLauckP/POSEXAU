@@ -1,6 +1,6 @@
 <h1 align="center">POSEXAU</h1>
 
-<p align="center">Tool to Auxiliate Exercises Execution Pose did to my Final Paper.</p>
+<p align="center">Tool to Auxiliate Exercises Execution Pose did to my Final Paper in Computer Engineering.</p>
 <h1 align="center">
     <a href="https://www.anaconda.com/">🐍 Anaconda</a>
 </h1>
@@ -13,7 +13,6 @@
 <p align="center">
   <a href="#blush-description">Description</a> •
   <a href="#book-tutorial">Tutorial</a> •
-  <a href="#zap-tech-stack">Tech Stack</a> •
   <a href="#handshake-platform">Plataform</a> •  
   <a href="#desktop_computer-hardware">Hardware</a> •
   <a href="#weight_lifting-caffe-model">Caffe Model</a> •
@@ -26,19 +25,18 @@ Put your personal vídeos practicing exercises and verify if you are doing corre
 
 ## :book: **Tutorial**
 
-1.
-Tutorial to create the enviroment necessary to use that Tool.
-
+Create the enviroment necessary to use that Tool.
+```
 conda create --name POSEXAU python=3.7.11
+```
 
-2.
 Activate the enviroment:
-
+```
 conda activate POSEXAU
+```
 
-3.
-Install packages dependencies: 
-
+Install packages dependencies:
+```
 conda install -c anaconda jupyter
 
 conda install -c conda-forge opencv=4.5.3
@@ -48,8 +46,10 @@ conda install -c anaconda numpy=1.21.2
 conda install -c jmcmurray os=0.1.4
 
 pip install import-ipynb=0.1.3
+```
 
-## :descrip: **Description**
+
+## :descrip: **Lateral Raise Exercise**
 
 The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
 
