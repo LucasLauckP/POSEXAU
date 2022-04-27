@@ -9,38 +9,21 @@
 <h4 align="center"> 
 	🚧  Python Select 🚀 Building...  🚧
 </h4>
+
 <p align="center">
- <a href="#blush-why">Why</a> •
- <a href="#Description">Description</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#Plataform">Plataform</a> • 
- <a href="#autor">Autor</a>
+  <a href="#blush-description">Description</a> •
+  <a href="#dizzy-tutorial">Tutorial</a> •
+  <a href="#zap-tech-stack">Tech Stack</a> •
+  <a href="#handshake-plataform">Plataform</a> •  
+  <a href="#tophat-license">License</a> •
+  <a href="#art-about-me">About Me</a>
 </p>
 
-#Description
-## :blush: **Why?**
+## :blush: **Description**
 
-The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
+Put your personal vídeos practicing exercises and verify if you are doing correct.
 
-The principal function is:
-
-posexau.inspec_lateral_raise(confs,prob_min_lateral_raise,frame, points, angle_max_arms, True)
-
-That recive with parameters:
-
-"confs" =  vetor with confiabilities.
-
-"prob_min_lateral_raise" = minimal confiability choose for the user.
-
-"frame" = frame for the video.
-
-"poitns" = points of body positions in the frame.
-
-"angle_max_arms" = minimal angle accept for the tool choose for the user to the arms in the exercise.
-
-Flag to choose if the Tool draw the angles about the arms and chest in the frame.
+## :dizzy: **Tutorial**
 
 1.
 Tutorial to create the enviroment necessary to use that Tool.
@@ -65,7 +48,30 @@ conda install -c jmcmurray os=0.1.4
 
 pip install import-ipynb=0.1.3
 
-#Plataform
+## :descrip: **Description**
+
+The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
+
+The principal function is:
+
+posexau.inspec_lateral_raise(confs,prob_min_lateral_raise,frame, points, angle_max_arms, True)
+
+That recive with parameters:
+
+"confs" =  vetor with confiabilities.
+
+"prob_min_lateral_raise" = minimal confiability choose for the user.
+
+"frame" = frame for the video.
+
+"poitns" = points of body positions in the frame.
+
+"angle_max_arms" = minimal angle accept for the tool choose for the user to the arms in the exercise.
+
+Flag to choose if the Tool draw the angles about the arms and chest in the frame.
+
+
+## :handshake: **Platform**
 
 The system is designed to work on both platforms, Windows and Linux. Since it's only inference and not training, a computer with a processing power of a fourth generation i5 processor and a camera of at least 7 Megapixels to record the videos.
 
