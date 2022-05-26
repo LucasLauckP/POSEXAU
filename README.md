@@ -19,7 +19,7 @@
 <p align="center">🚀 That was done in an Anaconda enviroment with python 3.7.11 using Jupyter Notebook IDE.</p>
 
 <p align="center">
-<img src="./images/shoulders/keypoints.jpg" width="300" height="350" align="center" alt="exemplo imagem">
+<img src="./images/keypoints.jpg" width="300" height="350" align="center" alt="exemplo imagem">
 </p>
 <h4 align="center"> 
 	🚧  Python Select 🚀 Building...  🚧
@@ -58,10 +58,10 @@ pip install import-ipynb=0.1.3
 ## **Lateral Raise Exercise**
 
 <p align="center">
-<img src="./images/shoulders/frame1_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/shoulders/frame2_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/shoulders/frame3_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/shoulders/keypoints.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame1_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame2_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame3_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/keypoints.jpg" width="150" height="175" align="center" alt="exemplo imagem">
 </p>
 
 The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
@@ -85,10 +85,10 @@ Flag to choose if the Tool draw the angles about the arms and chest in the frame
 ## **Barbell Curl Exercise**
 
 <p align="center">
-<img src="./images/biceps/frame1_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/biceps/frame2_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/biceps/frame3_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/biceps/frame4_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame1_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame2_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame3_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame4_biceps.jpg" width="150" height="175" align="center" alt="exemplo imagem">
 </p>
 
 The first function of posexau is to inspection of biceps exercise Barbell Curl, you can put a video in de input and verify if you are doing correct. 
