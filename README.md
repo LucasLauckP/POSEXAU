@@ -85,10 +85,10 @@ Flag to choose if the Tool draw the angles about the arms and chest in the frame
 ## **Barbell Curl Exercise**
 
 <p align="center">
-<img src="./images/frame1_biceps.jpg" width="85" height="175" align="center" alt="exemplo imagem">
-<img src="./images/frame2_biceps.jpg" width="85" height="175" align="center" alt="exemplo imagem">
-<img src="./images/frame3_biceps.jpg" width="85" height="175" align="center" alt="exemplo imagem">
-<img src="./images/frame4_biceps.jpg" width="85" height="175" align="center" alt="exemplo imagem">
+<img src="./images/frame1_biceps.jpg" width="110" height="185" align="center" alt="exemplo imagem">
+<img src="./images/frame2_biceps.jpg" width="110" height="185" align="center" alt="exemplo imagem">
+<img src="./images/frame3_biceps.jpg" width="110" height="185" align="center" alt="exemplo imagem">
+<img src="./images/frame4_biceps.jpg" width="110" height="185" align="center" alt="exemplo imagem">
 </p>
 
 The first function of posexau is to inspection of biceps exercise Barbell Curl, you can put a video in de input and verify if you are doing correct. 
