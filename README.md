@@ -58,10 +58,10 @@ pip install import-ipynb=0.1.3
 ## **Lateral Raise Exercise**
 
 <p align="center">
-<img src="./images/frame1_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/frame2_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/frame3_shoulders.jpg" width="150" height="175" align="center" alt="exemplo imagem">
-<img src="./images/keypoints.jpg" width="150" height="175" align="center" alt="exemplo imagem">
+	<img src="./images/keypoints.jpg" width="150" height="85" align="center" alt="exemplo imagem">
+	<img src="./images/frame1_shoulders.jpg" width="150" height="85" align="center" alt="exemplo imagem">
+	<img src="./images/frame2_shoulders.jpg" width="150" height="85" align="center" alt="exemplo imagem">
+	<img src="./images/frame3_shoulders.jpg" width="150" height="85" align="center" alt="exemplo imagem">
 </p>
 
 The first function of posexau is to inspection of shoulders exercise Lateral Raise, you can put a video in de input and verify if you are doing correct. 
